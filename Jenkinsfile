@@ -16,6 +16,7 @@ pipeline {
         }
         stage("Build & Test"){
             steps{
+                echo "ajj to linkedin post banta h bhai"
                 sh "docker build . -t notes-app-jenkins:latest"
             }
         }
