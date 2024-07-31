@@ -1,4 +1,4 @@
-# Simple Notes App for all 
+# Simple Notes App for all the
 This is a simple notes app built with React and Django.
 
 ## Requirements
